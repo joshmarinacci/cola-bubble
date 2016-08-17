@@ -32,10 +32,10 @@ var MyBubble = Bubble.createBubbleClass({
     return (
       <View style={{flex: 1, justifyContent:'center'}}>
         <Text style={{fontSize:28, textAlign:'center', color:primary, marginBottom: 12}}>
-          {'Hello World!'}
+          {'Greetings Earthling!'}
         </Text>
         <Text style={{fontSize:16, textAlign:'center', color:secondary}}>
-          {'Welcome to Cola Bubbles.'}
+          {'I have solved all the worlds energy problems. I am going to blow it up! '}
         </Text>
       </View>
     );
